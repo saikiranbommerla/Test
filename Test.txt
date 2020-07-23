@@ -4,7 +4,10 @@ test from firstbranch
 test from firstbranch again
 test from secondbranch
 <<<<<<< HEAD
+<<<<<<< HEAD
 test from branch one
 =======
 test from branch one
 >>>>>>> 9de1a0aeda247ce99321e414d44eb6250ff03d23
+=======
+>>>>>>> 7063295... commit from secondbranch
