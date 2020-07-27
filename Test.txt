@@ -6,5 +6,9 @@ test from secondbranch
 test from branch one
 testing the master merge into one branch
 testing from branch two
+<<<<<<< HEAD
 testing from branch one again after deleting the branch two
 hsdbvshvknsd from branch two
+=======
+from branch one
+>>>>>>> one
