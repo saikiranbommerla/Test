@@ -4,3 +4,4 @@ test from firstbranch
 test from firstbranch again
 test from secondbranch
 test from branch one
+testing the master merge into one branch
