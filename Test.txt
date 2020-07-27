@@ -6,3 +6,4 @@ test from secondbranch
 test from branch one
 testing the master merge into one branch
 testing from branch two
+from branch one
